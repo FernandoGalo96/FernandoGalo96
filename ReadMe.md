@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>🔭 Desenvolvedor C# - .NET<br>👯 Estou a procura de uma vaga Jr ou Estágio.<br>🌱 Meu foco atualmente é em MVC e APIrest<br>💬Pergunte-me sobre programação em C# e desenvolvimento web.
 
 
