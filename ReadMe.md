@@ -10,5 +10,5 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=Fernando Galo&icon=2&color=1)](https://visitcount.itsvg.in)
+
 
