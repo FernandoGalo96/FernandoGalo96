@@ -1,5 +1,6 @@
 # 💫 Sobre Mim:
-🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>🔭 Desenvolvedor Backend - C# - .NET<br>👯 Estou a procura de uma vaga Jr ou Estágio.<br>🌱 Meu foco atualmente é em MVC e APIrest<br>💬Pergunte-me sobre programação em C# e desenvolvimento web. 💫 Meu Portfólio: https://fernandogalo-repositorio.netlify.app/
+🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>🔭 Desenvolvedor Backend - C# - .NET<br>👯 Estou a procura de uma vaga Jr ou Estágio.<br>🌱 Meu foco atualmente é em MVC e APIrest<br>💬Pergunte-me sobre programação em C# e desenvolvimento web.
+💫 Meu Portfólio: https://fernandogalo-repositorio.netlify.app/
 
 
 ## 🌐 Socials:
