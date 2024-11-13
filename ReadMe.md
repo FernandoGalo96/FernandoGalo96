@@ -10,27 +10,3 @@
 👯 Objetivo: Busco uma vaga para atuar em projetos desafiadores que utilizem C#, .NET e tecnologias de backend.
 
 💬 Pergunte-me sobre: Programação orientada a objetos, desenvolvimento de APIs, arquitetura de software e boas práticas de design.
-
-🌐 Socials:
-FacebookInstagramLinkedIn
-
-💻 Tech Stack:
-Aqui estão as principais tecnologias que uso em meus projetos e para resolver desafios:
-
-Linguagens e Frameworks
-C#.Net
-HTML5
-BootstrapFastAPI
-
-Banco de Dados
-SQL ServerMySQL
-
-Controle de Versão e Deploy
-Git
-GitHub Actions
-
-Ferramentas e Testes
-Canva
-
-Outras Competências
-
