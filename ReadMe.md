@@ -1,5 +1,5 @@
 # 💫 Sobre Mim: 💫 Meu Portfólio: https://fernandogalo-repositorio.netlify.app/
-🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>🔭 Desenvolvedor Backend - C# - .NET - ASP.NET CORE MVC - REACT.JS<br>👯 Estou a procura de uma vaga Jr ou Estágio.<br>🌱<br>💬Pergunte-me sobre programação em C# e desenvolvimento web.
+🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>🔭 Desenvolvedor Backend - C# - .NET - ASP.NET CORE MVC - REACT.JS<br>👯 Estou a procura de uma vaga <br>🌱<br>💬Pergunte-me sobre programação e desenvolvimento web.
 
 
 
