@@ -1,14 +1,36 @@
-# 💫 Sobre Mim: 💫 Meu Portfólio: https://fernandogalo-repositorio.netlify.app/
-🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>🔭 Desenvolvedor Backend - C# - .NET - ASP.NET CORE MVC - REACT.JS<br>👯 Estou a procura de uma vaga <br>🌱<br>💬Pergunte-me sobre programação e desenvolvimento web.
+💫 Sobre Mim 💫
+🔗 Meu Portfólio: fernandogalo-repositorio.netlify.app
 
+🔭 Formação: Cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, com previsão de conclusão em Janeiro de 2025.
 
+🔧 Desenvolvedor Backend: Experiência sólida em C#, .NET, ASP.NET Core MVC e React.js. Entusiasta de arquitetura de software, DDD, CQRS e Testes Automatizados com TDD.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/fernandogaloalves/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_fernandogalo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-galo-alves/) 
+🌱 Minhas Tecnologias: Experiência com SQL, NoSQL, APIs RESTful, HTML, CSS, Bootstrap, jQuery, e ferramentas para testes unitários e de integração como xUnit e Fluent Assertions.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+👯 Objetivo: Busco uma vaga para atuar em projetos desafiadores que utilizem C#, .NET e tecnologias de backend.
 
+💬 Pergunte-me sobre: Programação orientada a objetos, desenvolvimento de APIs, arquitetura de software e boas práticas de design.
 
+🌐 Socials:
+FacebookInstagramLinkedIn
 
+💻 Tech Stack:
+Aqui estão as principais tecnologias que uso em meus projetos e para resolver desafios:
+
+Linguagens e Frameworks
+C#.Net
+HTML5
+BootstrapFastAPI
+
+Banco de Dados
+SQL ServerMySQL
+
+Controle de Versão e Deploy
+Git
+GitHub Actions
+
+Ferramentas e Testes
+Canva
+
+Outras Competências
 
