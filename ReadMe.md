@@ -3,7 +3,7 @@
 
 🔭 Formação: Cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, com previsão de conclusão em Janeiro de 2025.
 
-🔧 Desenvolvedor Backend: Experiência sólida em C#, .NET, ASP.NET Core MVC e React.js. Entusiasta de arquitetura de software, DDD, CQRS e Testes Automatizados com TDD.
+🔧 Desenvolvedor Backend: Experiência sólida em C#, .NET, ASP.NET Core MVC e Angular. Entusiasta de arquitetura de software, DDD, CQRS e Testes Automatizados com TDD.
 
 🌱 Minhas Tecnologias: Experiência com SQL, NoSQL, APIs RESTful, HTML, CSS, Bootstrap, jQuery, e ferramentas para testes unitários e de integração como xUnit e Fluent Assertions.
 
